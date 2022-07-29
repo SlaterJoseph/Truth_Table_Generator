@@ -9,5 +9,5 @@ If parenthesis are off or a operand is in a invalid loction it will not work
 You input your truth table function into the space alloted, using the buttons provided to insert operations (and,or,xor,if,if and only if, negation). Then you
 click start and you boolean function is displayed.
 
-##Demonstration
+## Demonstration
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
